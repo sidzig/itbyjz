@@ -1,0 +1,8 @@
+title: Itbyjz
+description: You have enough problems...IT should not be one of them.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
